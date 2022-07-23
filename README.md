@@ -6,4 +6,4 @@
 [![forthebadge nodejs](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&labelColor=black)](https://python.org/)
 [![forthebadge typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&labelColor=black)](https://python.org/)
 ### Github Stats
-[![OmegaM1's github stats](https://github-readme-stats.vercel.app/api?username=OmegaM1&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![OmegaM1's github stats](https://github-readme-stats.vercel.app/api?username=OmegaM1&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
